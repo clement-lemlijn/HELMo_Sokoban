@@ -6,9 +6,9 @@ Preblèmes connus :
 	Duplication de l'objetctif quand on pousse la caisse en passant dessus
 */
 
-package Sokoban;
+package Sokoban.src;
 import io.*;
-import java.util.Arrays;
+
 public class Sokoban{
 	static int dist = aleatoire(5,15);
 	static int gridSize = 11, nbSols=0;
