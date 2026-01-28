@@ -27,7 +27,7 @@ La caisse est placée selon un algorithme de "marche aléatoire" à partir de l'
 ## 📊 Aperçu du projet
 
 <p align="left">
-  <img src="img/Sokoban_demo.png" width="50%" alt="Sokoban Demo">
+  <img src="img/Sokoban_demo.gif" width="400" alt="Démo Sokoban">
   <br>
   <em>Interface du jeu utilisant une grille de sprites 64x64 pixels.</em>
 </p>
